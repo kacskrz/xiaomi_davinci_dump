@@ -1,0 +1,5 @@
+firmware-update/NON-HLOS.bin
+vendor/etc/camera/LDC_table_src2.dat
+vendor/etc/camera/LDC_table_src1.dat
+boot.img
+system/system/app/WebViewGoogle/WebViewGoogle.apk
